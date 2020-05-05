@@ -1,6 +1,6 @@
 # ListView_Demo
 
-Demonstration of a simple ListView.  The app displays a toast which is dependent on which list item is clicked on.
+Demonstration of a simple ListView.  The app displays a toast which is dependent on which list item is selected.
 
 # Screenshot
 
